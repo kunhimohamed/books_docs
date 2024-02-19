@@ -127,7 +127,7 @@ accounts.
   implies an increase in balance.
 
 - For **Liabilities** and **Income** accounts Credit implies an increase in balance and Debit
-  implies and decrease in balance.
+  implies an decrease in balance.
 
 ::: tip AEDLIC
 You can remember this by the abbreviation **AEDLIC** which would stand for:
